@@ -90,14 +90,14 @@ Otherwise, if the user selects the Gallery option, the application has provided 
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
-SOFTWARE REQUIRED: Android Studio
 
-References:
-https://stackoverflow.com/a/28673282   - image to hexadecimal of most dominant pixel
 
-https://github.com/Dhaval2404/ImagePicker - picking image from camera / gallery with cropping
+## References:
+1. https://stackoverflow.com/a/28673282   - image to hexadecimal of most dominant pixel
 
-https://square.github.io/retrofit/  - android library
+2. https://github.com/Dhaval2404/ImagePicker - picking image from camera / gallery with cropping
 
-https://www.thecolorapi.com/docs#schemes-generate-scheme-get  - API Calling
+3. https://square.github.io/retrofit/  - android library
+
+4. https://www.thecolorapi.com/docs#schemes-generate-scheme-get  - API Calling
 
