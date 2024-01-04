@@ -11,3 +11,4 @@ https://square.github.io/retrofit/  - android library
 
 https://www.thecolorapi.com/docs#schemes-generate-scheme-get  - API Calling
 
+![image](https://github.com/rahulkumarmmmut/colordetection/assets/87722928/58ea0df1-ad59-419e-a5cf-215d6f50742f)
